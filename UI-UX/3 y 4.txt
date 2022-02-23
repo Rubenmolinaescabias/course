@@ -1,0 +1,22 @@
+Task Three: Create a user story by referencing one of these websites
+	Twitter https://twitter.com/home?lang=en
+	Youtube https://www.youtube.com/
+	Facebook https://www.facebook.com/ 
+	Google https://www.google.com/ 
+
+	Youtube
+	Como usuario me gustaria poder ver videos de cualquier lugar del mundo y poder compartir tambien los mios de forma intuitiva sin necesitar conocimientos previos
+
+Task Four: Identify the prime objective of Facebook, Twitter, Google, and Youtube.
+
+	Facebook
+	Compartir imagenes y videos con otras personas y ver y comentar en otras publicaciones
+
+	Twitter
+	Hablar sobre diferentes temas con otras personas
+
+	Google
+	Consultar información de cualquier tema de forma rapida y gratuita
+
+	Youtube
+	Ver videos de cualquier lugar del mundo de cualquier tema generalmente para entretenimiento
